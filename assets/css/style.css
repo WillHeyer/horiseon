@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Company Title*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -34,6 +35,10 @@ body {
 
 .header div ul {
     list-style-type: none;
+    font-weight: bolder;
+
+/* Added Bolder Font Weight*/
+
 }
 
 .header div ul li {
@@ -41,14 +46,18 @@ body {
     margin-left: 25px;
 }
 
+/* Paragraphs*/
+
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
 p {
-    font-size: 16px;
+    font-size: 20px;
 }
+
+/*Header Pic*/
 
 .hero {
     height: 800px;
@@ -83,7 +92,10 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #2a607c;
+
+/* Changed Color of Background */
+
 }
 
 .benefit-lead {
